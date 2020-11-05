@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Museo Sans Display';
+    src: url('MuseoSansDisplay-Hairline.eot');
+    src: local('Museo Sans Display Hairline'), local('MuseoSansDisplay-Hairline'),
+        url('MuseoSansDisplay-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('MuseoSansDisplay-Hairline.woff2') format('woff2'),
+        url('MuseoSansDisplay-Hairline.woff') format('woff'),
+        url('MuseoSansDisplay-Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo Sans Display';
+    src: url('MuseoSansDisplay-Black.eot');
+    src: local('Museo Sans Display Black'), local('MuseoSansDisplay-Black'),
+        url('MuseoSansDisplay-Black.eot?#iefix') format('embedded-opentype'),
+        url('MuseoSansDisplay-Black.woff2') format('woff2'),
+        url('MuseoSansDisplay-Black.woff') format('woff'),
+        url('MuseoSansDisplay-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo Sans Display';
+    src: url('MuseoSansDisplay-ExtraBlack.eot');
+    src: local('Museo Sans Display Extra Black'), local('MuseoSansDisplay-ExtraBlack'),
+        url('MuseoSansDisplay-ExtraBlack.eot?#iefix') format('embedded-opentype'),
+        url('MuseoSansDisplay-ExtraBlack.woff2') format('woff2'),
+        url('MuseoSansDisplay-ExtraBlack.woff') format('woff'),
+        url('MuseoSansDisplay-ExtraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo Sans Display';
+    src: url('MuseoSansDisplay-Light.eot');
+    src: local('Museo Sans Display Light'), local('MuseoSansDisplay-Light'),
+        url('MuseoSansDisplay-Light.eot?#iefix') format('embedded-opentype'),
+        url('MuseoSansDisplay-Light.woff2') format('woff2'),
+        url('MuseoSansDisplay-Light.woff') format('woff'),
+        url('MuseoSansDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo Sans Display';
+    src: url('MuseoSansDisplay-ExtraLight.eot');
+    src: local('Museo Sans Display Extra Light'), local('MuseoSansDisplay-ExtraLight'),
+        url('MuseoSansDisplay-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('MuseoSansDisplay-ExtraLight.woff2') format('woff2'),
+        url('MuseoSansDisplay-ExtraLight.woff') format('woff'),
+        url('MuseoSansDisplay-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
